@@ -1,0 +1,6 @@
+C:\Users\Marcelo\source\repos\name_number_sheet\name_number_sheet\bin\Debug\name_number_sheet.dll
+C:\Users\Marcelo\source\repos\name_number_sheet\name_number_sheet\bin\Debug\name_number_sheet.pdb
+C:\Users\Marcelo\source\repos\name_number_sheet\name_number_sheet\obj\Debug\Mplugin.csproj.AssemblyReference.cache
+C:\Users\Marcelo\source\repos\name_number_sheet\name_number_sheet\obj\Debug\Mplugin.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\name_number_sheet\name_number_sheet\obj\Debug\name_number_sheet.dll
+C:\Users\Marcelo\source\repos\name_number_sheet\name_number_sheet\obj\Debug\name_number_sheet.pdb
